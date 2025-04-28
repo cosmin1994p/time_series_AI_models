@@ -1,1 +1,1 @@
-Each model is to be run individually in this version. There is a project on progress that will make the run automatic for all of them. If any special conditions there is a readme file inside the folder
+Each model is to be run individually in this version. There is a project on progress that will make the run automatic for all of them. If any special conditions there is a readme file inside each folder
